@@ -1,0 +1,18 @@
+1.	DNA (Deoxyribonucleic Acid):
+•	DNA is a double-stranded, long-chain molecule that carries genetic instructions for the development, functioning, growth, and reproduction of all known living organisms and many viruses.
+•	It consists of four types of nucleotide bases: adenine (A), cytosine (C), guanine (G), and thymine (T), which are arranged in a specific sequence.
+•	DNA is located primarily in the cell nucleus in eukaryotic cells, where it forms structures called chromosomes. Prokaryotic cells, such as those of bacteria, also contain DNA but lack a true nucleus.
+•	DNA replication occurs before cell division, ensuring that each daughter cell receives an identical copy of the genetic information.
+2.	RNA (Ribonucleic Acid):
+•	RNA is a single-stranded nucleic acid molecule that serves various roles in the cell, including carrying out instructions encoded in DNA.
+•	Like DNA, RNA is composed of nucleotide units, but it contains ribose sugar instead of deoxyribose sugar and uracil (U) instead of thymine (T) as one of its bases.
+•	RNA has multiple types, including messenger RNA (mRNA), transfer RNA (tRNA), and ribosomal RNA (rRNA), each with distinct functions.
+3.	mRNA (Messenger RNA):
+•	mRNA is a specific type of RNA that acts as a temporary copy of a gene's DNA sequence. It carries the genetic information from the DNA in the cell nucleus to the ribosomes in the cytoplasm, where proteins are synthesized.
+•	The process by which mRNA is synthesized from DNA is called transcription. During transcription, RNA polymerase reads the DNA template and synthesizes a complementary mRNA strand using the appropriate base pairing rules (A with U, C with G).
+•	mRNA carries the genetic code in the form of codons, which are sequences of three nucleotides that specify a particular amino acid. These codons are read by ribosomes during translation, the process of protein synthesis.
+•	The sequence of nucleotides in mRNA determines the order of amino acids in a protein, making it a critical link between the genetic code in DNA and the actual proteins that perform various functions in the cell.
+What is gene?
+A gene is a fundamental unit of heredity in living organisms, including humans. It is a segment of DNA (deoxyribonucleic acid) that contains the instructions or code for making a specific protein or set of proteins. Genes serve as templates for the synthesis of proteins, which are the workhorses of cells and perform a wide variety of functions in the body. Genes are responsible for determining an organism's traits, characteristics, and biological processes.
+Gene Expression: Gene expression is the process by which information encoded in a gene is used to synthesize a functional protein or, in the case of non-coding genes, perform other regulatory functions. Gene expression is a tightly regulated and complex process that involves multiple steps.
+Heredity refers to the passing of genetic information (traits, characteristics, and genetic material) from one generation to the next in living organisms, including hum
